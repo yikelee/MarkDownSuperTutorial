@@ -4,7 +4,7 @@
 
 <br>
 
-1. **Markdown** 是一款轻量级标记语言，不同于HTML **(Hypertext Markup Language)**，**Markdown** 的语法非常简单 且 容易上手
+1. **Markdown** 是一款轻量级标记语言，不同于HTML **(Hypertext Markup Language)**，**Markdown** 的语法非常简单，且容易上手
 2. **Markdown** 以 **纯文本格式** 编写文档，依赖键盘而非鼠标，专注于**写作本身**，感受**书写**的魅力
 3. **Markdown** 的通过添加一些简单的 **标识符**，让文本具有**恰到好处**的格式
 4. **Markdown** 核心特征就是 **删繁剪芜**， **简扼 **+ **精炼**
@@ -22,7 +22,7 @@
 
 - **Markdown** **书写软件** 推荐：**Typora**     优秀的 MD网页文章 书写软件
   - [点击跳转下载地址](https://www.typora.io/ "Typora编辑器")
-- **Markdown** **笔记软件** 推荐：**Obsidian**    **银河系最强** **MD+ 双向链** 笔记软件 
+- **Markdown** **笔记软件** 推荐：**Obsidian**    **银河系最强** **MD+双向链** 笔记软件 
   - [点击跳转下载地址](https://obsidian.md/ "银河系第一笔记软件 Obsidian")
 
 <br><br>
@@ -1050,7 +1050,7 @@ print "Good bye!"
     - **`[^脚注代号]`**   ( 脚注代号会直接显示在渲染界面 )
       - 脚注代号可以随便命名，不过推荐使用 **数字序号**
   - 在其他区域，输入：
-    -  **`[^脚注代号]`** + **<kbd>:</kbd>** +**<kbd>空格</kbd>** + 脚注内容   （这个 **<kbd>空格</kbd>** 不打也没事)
+    -  **`[^脚注代号]`** + **<kbd>:</kbd>** + **<kbd>空格</kbd>** + 脚注内容   （这个 **<kbd>空格</kbd>** 不打也没事)
 
 ```markdown
 鲁迅原名是什么[^1] ，浙江哪里人[^2]
@@ -1146,7 +1146,7 @@ print "Good bye!"
 <br>
 
 #### 11.4.2 多彩斜体文本
-- 跟多彩加粗文本完全一样，只需把 `**` 换成 `*` 即可 蓝色文本  italic
+- 跟多彩加粗文本完全一样，只需把首尾的 `**` 换成 `*` 即可 
 1. **格式1：** `*<font color=teal>This is an italic teal text</font>*`
 	- **效果：**  *<font color=teal>This is an italic teal text</font>*
 2. **格式2：** `<font color=teal>*This is an italic teal text*</font>`
@@ -1154,9 +1154,8 @@ print "Good bye!"
 
 <br>
 
-这是一段粗斜体文本
 #### 11.4.2 多彩粗斜体文本
-- 换成 `***`
+- 首尾换成 `***`
 1. **格式1：**  `***<font color=teal>This is a bold italic teal text</font>***`
 	- **效果：**  ***<font color=teal>This is a bold italic teal text</font>***
 2. **格式2：** `<font color=teal>***This is a bold italic teal text***</font>`
@@ -1328,6 +1327,7 @@ print "Good bye!"
 
   - 在 **<kbd>-</kbd>** 前面加上 转义符号  **<kbd>\\</kbd>** 
 
+
   ```markdown
   >The Web, the Tree, and the String.
   >写作之难，在于把网状的思考，用树状结构，体现在线性展开的语句里。
@@ -1436,12 +1436,12 @@ print "Good bye!"
 - **示例：**
 
 ```html
-<audio controls="controls" preload="none" src="https://www.ldoceonline.com/media/english/exaProns/p008-001803372.mp3?version=1.2.30"></audio>
+<audio controls="controls" preload="none" src="https://www.ldoceonline.com/media/english/exaProns/p008-001803372.mp3?version=1.2.37"></audio>
 ```
 
 - **效果：**
 
-<audio controls="controls" preload="none" src="https://www.ldoceonline.com/media/english/exaProns/p008-001803372.mp3?version=1.2.30"></audio>
+<audio controls="controls" preload="none" src="https://www.ldoceonline.com/media/english/exaProns/p008-001803372.mp3?version=1.2.37"></audio>
 
 <br>
 
